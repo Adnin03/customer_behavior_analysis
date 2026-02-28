@@ -72,6 +72,4 @@ Compiled findings into a comprehensive project report.
 
 Used Gamma to generate a professional, high-impact presentation deck for stakeholders.
 
-Dashboard Preview
-
 Proyek ini dikembangkan dengan mengikuti panduan luar biasa dari tutorial YouTube oleh Amlan Mohanty. Terima kasih atas ilmunya! Tonton video aslinya di sini: https://youtu.be/5PrZvPeUw60?si=o0OI9JU-ZQOSlE5D.
